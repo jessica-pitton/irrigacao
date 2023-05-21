@@ -25,3 +25,5 @@ Fonte 5v Externa
 ## Protocolo MQTT
 Aedes Broker MQTT
 
+Para mais informações acesse a documentação do projeto [aqui](https://github.com/jessica-pitton/irrigacao/blob/f9a2fcfac14322bb106399fe1fbd7a8b5e9b6f69/Doc%20sistema%20irrigacao.pdf).
+
